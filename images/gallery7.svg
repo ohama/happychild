@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#ECEFF1"/>
+  <rect x="100" y="80" width="200" height="150" fill="#FFFFFF" stroke="#BDBDBD" stroke-width="2"/>
+  <rect x="120" y="100" width="70" height="50" fill="#E3F2FD"/>
+  <rect x="210" y="100" width="70" height="50" fill="#FFF3E0"/>
+  <rect x="120" y="160" width="160" height="50" fill="#F3E5F5"/>
+  <circle cx="155" cy="125" r="15" fill="#42A5F5"/>
+  <circle cx="245" cy="125" r="15" fill="#FF7043"/>
+  <rect x="140" y="175" width="120" height="20" fill="#AB47BC"/>
+  <text x="200" y="260" fill="#555" font-family="Arial" font-size="16" text-anchor="middle">미술 활동</text>
+</svg>

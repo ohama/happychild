@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#FFF8E1"/>
+  <ellipse cx="200" cy="200" rx="150" ry="80" fill="#A5D6A7"/>
+  <circle cx="120" cy="180" r="25" fill="#FFAB91"/>
+  <circle cx="200" cy="160" r="30" fill="#90CAF9"/>
+  <circle cx="280" cy="175" r="28" fill="#CE93D8"/>
+  <circle cx="160" cy="200" r="22" fill="#80DEEA"/>
+  <circle cx="240" cy="195" r="26" fill="#FFCC80"/>
+  <rect x="100" y="100" width="8" height="60" fill="#8D6E63"/>
+  <circle cx="104" cy="85" r="20" fill="#66BB6A"/>
+  <text x="200" y="270" fill="#555" font-family="Arial" font-size="16" text-anchor="middle">야외 놀이</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#E1F5FE"/>
+  <rect x="50" y="180" width="300" height="100" fill="#8D6E63" rx="5"/>
+  <rect x="80" y="150" width="60" height="80" fill="#FFCC80"/>
+  <rect x="170" y="130" width="80" height="100" fill="#FFCC80"/>
+  <rect x="280" y="160" width="50" height="70" fill="#FFCC80"/>
+  <polygon points="80,150 110,100 140,150" fill="#B71C1C"/>
+  <polygon points="170,130 210,70 250,130" fill="#1565C0"/>
+  <polygon points="280,160 305,120 330,160" fill="#2E7D32"/>
+  <circle cx="320" cy="50" r="30" fill="#FFF59D"/>
+  <text x="200" y="260" fill="#555" font-family="Arial" font-size="16" text-anchor="middle">마을 탐방</text>
+</svg>
