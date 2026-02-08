@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#E3F2FD"/>
+  <circle cx="320" cy="60" r="40" fill="#FFF59D"/>
+  <rect x="0" y="250" width="400" height="50" fill="#8D6E63"/>
+  <path d="M50 250 L100 100 L150 250 Z" fill="#33691E"/>
+  <path d="M120 250 L180 80 L240 250 Z" fill="#558B2F"/>
+  <path d="M200 250 L270 120 L340 250 Z" fill="#689F38"/>
+  <text x="200" y="160" fill="#555" font-family="Arial" font-size="16" text-anchor="middle">숲체험 활동</text>
+</svg>

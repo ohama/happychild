@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#E8F5E9"/>
+  <circle cx="100" cy="80" r="30" fill="#FFEB3B"/>
+  <ellipse cx="200" cy="280" rx="180" ry="40" fill="#81C784"/>
+  <path d="M150 280 L200 150 L250 280 Z" fill="#4CAF50"/>
+  <path d="M80 280 L120 180 L160 280 Z" fill="#388E3C"/>
+  <path d="M240 280 L300 200 L360 280 Z" fill="#2E7D32"/>
+  <text x="200" y="160" fill="#555" font-family="Arial" font-size="16" text-anchor="middle">봄 소풍</text>
+</svg>
